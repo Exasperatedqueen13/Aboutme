@@ -1,3 +1,48 @@
+div {
+  font: 20px/1.2 'Merienda One', Helvetica, sans-serif;
+  color: rgba(0, 0, 0, 0.7);
+  text-shadow: 3px 3px 3px #fff;
+}
+
+li {
+  float: left;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+
+li {
+  display: inline-block;
+  float: center;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 43px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: red;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+
 h1{text-align:center;}
 p{text-align:center;}
 form{text-align:center;}
