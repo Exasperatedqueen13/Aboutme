@@ -9,24 +9,24 @@ ul {
  } 
 
 
-a {
+li {
      display: block;
-     padding: 8px;
+     padding: 4px;
     background-color: #dddddd;
  }
 
 li {
   display: inline-block;
   float: center;
-  font: 400 13px/1.2 'Merienda One', Helvetica, sans-serif;
-  color: rgba(0,0,0,0.7);
+  font: 20px/1.2 'Merienda One', Helvetica, sans-serif;
+  color: rgba(0, 0, 0, 0.7);
 }
 
 li a {
   display: block;
   color: black;
   text-align: center;
-  padding: 14px 71px;
+  padding: 14px 38px;
   text-decoration: none;
   
 }
@@ -35,7 +35,8 @@ li a:hover {
   background-color: red;
 }
 
-h1 {
+
+.header {
 font: 130px 'Pacifico', Helvetica, sans-serif;
   color: #cc0000;
   text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
@@ -43,20 +44,36 @@ font: 130px 'Pacifico', Helvetica, sans-serif;
 }
 
 
-body {
-background-color:  #f2f2f2;
-}
-
-p {
-font: 400 14px/1.2 'Merienda One', Helvetica, sans-serif;
+div {
+  font:20px/1.2 'Merienda One', Helvetica, sans-serif;
   color: rgba(0,0,0,0.7);
+  }
+
+
+
+h2 {font: 40px/1.2 'Pacifico', Helvetica, sans-serif;, Helvetica, sans-serif;
+  color: black;
+  text-shadow: 3px 3px 3px #fff;}
+
+h3 {font: 16px/1.2 'Merienda One', Helvetica, sans-serif;
+  color: #ff5050;
+  text-shadow: 3px 3px 3px #fff;}
+
+
+p {font: 20px/1.2 'Merienda One', Helvetica, sans-serif;
+  color: rgba(0,0,0,0.7);
+  text-shadow: 3px 3px 3px #fff; }
+
+h4 {font: 20px/1.2 'Merienda One', Helvetica, sans-serif;
+  color: bl;
   text-shadow: 3px 3px 3px #fff;
+text-align: center;}
+
+body {
+  background-image: url("https://40.media.tumblr.com/4079574dbe9491f39e72f00ec08c29d8/tumblr_o2swkvbT8q1rpeux8o1_540.jpg");
+  height:100%;
+  width:100%;
+  background-repeat:no-repeat; 
+  background-size:cover;
 }
 
-h4 {
-font: 400 18px/1.2 'Merienda One', Helvetica, sans-serif;
-  color: red;
-  text-shadow: 3px 3px 3px #fff;
-  font-weight: bold;
-  text-decoration: underline;
-}
