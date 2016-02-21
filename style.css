@@ -11,7 +11,7 @@ ul {
 
 li {
      display: block;
-     padding: 8px;
+     padding: 4px;
     background-color: #dddddd;
  }
 
@@ -19,14 +19,14 @@ li {
   display: inline-block;
   float: center;
   font: 20px/1.2 'Merienda One', Helvetica, sans-serif;
-  color: rgba(0,0,0,0.7);
+  color: rgba(0, 0, 0, 0.7);
 }
 
 li a {
   display: block;
   color: black;
   text-align: center;
-  padding: 14px 35px;
+  padding: 14px 38px;
   text-decoration: none;
   
 }
