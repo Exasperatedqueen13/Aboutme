@@ -1,4 +1,8 @@
 
+div{font:20px/1.2 'Merienda One', Helvetica, sans-serif;
+  color: rgba(0,0,0,0.7);
+  }
+
 li {
      float: left;
  }
@@ -18,37 +22,26 @@ a {
 li {
   display: inline-block;
   float: center;
-  font: 400 13px/1.2 'Merienda One', Helvetica, sans-serif;
-  color: rgba(0,0,0,0.7);
 }
 
 li a {
   display: block;
   color: black;
   text-align: center;
-  padding: 14px 71px;
+  padding: 14px 40px;
   text-decoration: none;
   
 }
 
 li a:hover {
-  background-color: red;
+  background-color:#ffcc66;
 }
 
-h1 {
-font: 130px 'Pacifico', Helvetica, sans-serif;
-  color: #cc0000;
-  text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
- text-align:center;
-}
-
-
-body {
-background-color:  #f2f2f2;
-}
-
-p {
-font: 400 14px/1.2 'Merienda One', Helvetica, sans-serif;
+b {
+     display: block;
+     padding: 8px;
+  ;
+ }
   color: rgba(0,0,0,0.7);
   text-shadow: 3px 3px 3px #fff;
 }
