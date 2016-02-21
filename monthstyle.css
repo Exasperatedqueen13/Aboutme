@@ -43,12 +43,20 @@ font: 130px 'Pacifico', Helvetica, sans-serif;
  text-align:center;
 }
 
-
-div {
+.SRK {
   font:20px/1.2 'Merienda One', Helvetica, sans-serif;
   color: rgba(0,0,0,0.7);
   }
 
+.month {
+  font:20px/1.2 'Merienda One', Helvetica, sans-serif;
+  color: rgba(0,0,0,0.7);
+  }
+
+.container {
+  font:20px/1.2 'Merienda One', Helvetica, sans-serif;
+  color: rgba(0,0,0,0.7);
+  }
 
 
 h2 {font: 40px/1.2 'Pacifico', Helvetica, sans-serif;, Helvetica, sans-serif;
@@ -77,3 +85,6 @@ body {
   background-size:cover;
 }
 
+img {
+  border-radius: 10px;
+}
