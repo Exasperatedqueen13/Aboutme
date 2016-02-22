@@ -53,6 +53,9 @@ form{text-align:center;}
 h1 {font: 150px 'Pacifico', Helvetica, sans-serif;
   color: #cc0000;
   text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);}
+h2 {font: 40px/1.2 'Pacifico', Helvetica, sans-serif;, Helvetica, sans-serif;
+  color: black;
+  text-shadow: 3px 3px 3px #fff;}
 
 form { font: 30px 'Pacifico', Helvetica, sans-serif;
   color: #cc0000;
