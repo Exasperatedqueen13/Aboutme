@@ -5,12 +5,16 @@ div{font:20px/1.2 'Merienda One', Helvetica, sans-serif;
 li {
      float: left;
  }
+
 ul {
      list-style-type: none;
      margin: 0;
      padding: 0;
- } 
-
+     width: 100%;
+     text-align: center;
+     background-color: #dddddd;
+     height:60px;
+}
 
 a {
      display: block;
