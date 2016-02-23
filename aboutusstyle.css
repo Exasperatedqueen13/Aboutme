@@ -45,6 +45,9 @@ font: 150px 'Pacifico', Helvetica, sans-serif;
  text-align:center;
 }
 
+h2 {font: 40px/1.2 'Pacifico', Helvetica, sans-serif;, Helvetica, sans-serif;
+  color: black;
+  text-shadow: 3px 3px 3px #fff;}
 
 p {
 font: 25px/1.2 'Merienda One', Helvetica, sans-serif;
